@@ -1,0 +1,116 @@
+F1 Lap Time Tracker - Saudi Arabian GP Grand Prix (Apr 18-20)
+Initial Conditions: Dry
+Weather Changes:
+- Lap 1: Dry
+
+AI Predictions:
+P1: Max Verstappen (Red Bull) - Predicted Lap: 1:26.287 (Tire: Hard)
+P2: Lewis Hamilton (Ferrari) - Predicted Lap: 1:26.438 (Tire: Soft)
+P3: Oscar Piastri (McLaren) - Predicted Lap: 1:30.059 (Tire: Soft)
+P4: Lando Norris (McLaren) - Predicted Lap: 1:30.101 (Tire: Medium)
+P5: Charles Leclerc (Ferrari) - Predicted Lap: 1:31.221 (Tire: Hard)
+P6: Carlos Sainz (Williams) - Predicted Lap: 1:34.137 (Tire: Hard)
+P7: Kimi Antonelli (Mercedes) - Predicted Lap: 1:36.647 (Tire: Hard)
+P8: Oliver Bearman (Haas) - Predicted Lap: 1:38.622 (Tire: Hard)
+
+Strategy Recommendations:
+- AI Strategy (Normal): Max Verstappen should stay on Lap 1.
+- AI Strategy (Normal): Lewis Hamilton should stay on Lap 1.
+- AI Strategy (Normal): Lando Norris should stay on Lap 1.
+- AI Strategy (Normal): Charles Leclerc should pit for soft on Lap 1.
+- AI Strategy (Normal): Carlos Sainz should stay on Lap 1.
+- AI Strategy (Normal): Oscar Piastri should pit for soft on Lap 1.
+- AI Strategy (Normal): Kimi Antonelli should pit for soft on Lap 1.
+- AI Strategy (Normal): Oliver Bearman should stay on Lap 1.
+- AI Strategy (Normal): Max Verstappen should stay on Lap 2.
+- AI Strategy (Normal): Lewis Hamilton should stay on Lap 2.
+- AI Strategy (Normal): Lando Norris should stay on Lap 2.
+- AI Strategy (Normal): Charles Leclerc should pit for soft on Lap 2.
+- AI Strategy (Normal): Carlos Sainz should stay on Lap 2.
+- AI Strategy (Normal): Oscar Piastri should pit for soft on Lap 2.
+- AI Strategy (Normal): Kimi Antonelli should stay on Lap 2.
+- AI Strategy (Normal): Oliver Bearman should pit for soft on Lap 2.
+- AI Strategy (Normal): Max Verstappen should stay on Lap 3.
+- AI Strategy (Normal): Lewis Hamilton should stay on Lap 3.
+- AI Strategy (Normal): Lando Norris should stay on Lap 3.
+- AI Strategy (Urgent): Charles Leclerc should pit for medium on Lap 3.
+- AI Strategy (Normal): Carlos Sainz should stay on Lap 3.
+- AI Strategy (Normal): Oscar Piastri should pit for soft on Lap 3.
+- AI Strategy (Normal): Kimi Antonelli should stay on Lap 3.
+- AI Strategy (Normal): Oliver Bearman should stay on Lap 3.
+- AI Strategy (Normal): Max Verstappen should stay on Lap 4.
+- AI Strategy (Urgent): Lewis Hamilton should pit for medium on Lap 4.
+- AI Strategy (Urgent): Lando Norris should pit for medium on Lap 4.
+- AI Strategy (Urgent): Charles Leclerc should pit for medium on Lap 4.
+- AI Strategy (Normal): Carlos Sainz should stay on Lap 4.
+- AI Strategy (Urgent): Oscar Piastri should pit for medium on Lap 4.
+- AI Strategy (Normal): Kimi Antonelli should stay on Lap 4.
+- AI Strategy (Normal): Oliver Bearman should stay on Lap 4.
+- AI Strategy (Normal): Max Verstappen should stay on Lap 5.
+- AI Strategy (Urgent): Lewis Hamilton should pit for medium on Lap 5.
+- AI Strategy (Urgent): Lando Norris should pit for medium on Lap 5.
+- AI Strategy (Urgent): Charles Leclerc should pit for medium on Lap 5.
+- AI Strategy (Normal): Carlos Sainz should stay on Lap 5.
+- AI Strategy (Urgent): Oscar Piastri should pit for medium on Lap 5.
+- AI Strategy (Normal): Kimi Antonelli should stay on Lap 5.
+- AI Strategy (Normal): Oliver Bearman should stay on Lap 5.
+
+Leaderboard:
+P1: Max Verstappen (Red Bull) - Best Lap: 1:24.541 (Tire: Medium)
+Sectors: 7.623, 7.685, 7.533
+P2: Lewis Hamilton (Ferrari) - Best Lap: 1:26.504 (Tire: Hard)
+Sectors: 8.524, 8.408, 8.757
+P3: Oscar Piastri (McLaren) - Best Lap: 1:28.774 (Tire: Hard)
+Sectors: 9.476, 9.824, 10.851
+P4: Charles Leclerc (Ferrari) - Best Lap: 1:29.124 (Tire: Hard), +5s Penalty
+Sectors: 9.554, 9.475, 9.034
+P5: Lando Norris (McLaren) - Best Lap: 1:30.393 (Tire: Soft)
+Sectors: 9.171, 10.101, 10.922
+P6: Carlos Sainz (Williams) - Best Lap: 1:32.074 (Tire: Hard)
+Sectors: 10.599, 10.803, 10.812
+P7: Kimi Antonelli (Mercedes) - Best Lap: 1:34.701 (Tire: Medium), +5s Penalty
+Sectors: 10.882, 11.285, 11.013
+P8: Oliver Bearman (Haas) - Best Lap: 1:35.754 (Tire: Hard)
+Sectors: 12.363, 11.428, 11.341
+
+Performance Analysis:
+Car Performance:
+- Red Bull: Red Bull's car excels in dry conditions.
+- Ferrari: Ferrari's car excels in dry conditions.
+- McLaren: McLaren's car excels in dry conditions.
+- Williams: Williams's car struggles in dry conditions.
+- Mercedes: Mercedes's car struggles in dry conditions.
+- Haas: Haas's car struggles in dry conditions.
+
+Driver Performance:
+- Max Verstappen: Max Verstappen delivered outstanding performance.
+- Lewis Hamilton: Lewis Hamilton delivered outstanding performance.
+- Oscar Piastri: Oscar Piastri delivered outstanding performance.
+- Charles Leclerc: Charles Leclerc delivered outstanding performance.
+- Lando Norris: Lando Norris delivered outstanding performance.
+- Carlos Sainz: Carlos Sainz delivered outstanding performance.
+- Kimi Antonelli: Kimi Antonelli delivered outstanding performance.
+- Oliver Bearman: Oliver Bearman delivered outstanding performance.
+
+Driver Clusters:
+- Elite: Max Verstappen, Oscar Piastri, Lando Norris, Carlos Sainz
+- Competitive: Lewis Hamilton, Charles Leclerc, Kimi Antonelli
+- Struggling: Oliver Bearman
+- Comment: Drivers clustered into performance tiers based on lap times, sector consistency, and incidents.
+
+AI Prediction Accuracy:
+- Max Verstappen: AI predicted Max Verstappen's lap time as 1:26.287.
+- Lewis Hamilton: AI predicted Lewis Hamilton's lap time as 1:26.438.
+- Oscar Piastri: AI predicted Oscar Piastri's lap time as 1:30.059.
+- Charles Leclerc: AI predicted Charles Leclerc's lap time as 1:31.221.
+- Lando Norris: AI predicted Lando Norris's lap time as 1:30.101.
+- Carlos Sainz: AI predicted Carlos Sainz's lap time as 1:34.137.
+- Kimi Antonelli: AI predicted Kimi Antonelli's lap time as 1:36.647.
+- Oliver Bearman: AI predicted Oliver Bearman's lap time as 1:38.622.
+
+Fan Interactions:
+
+Visualizations:
+- Lap Times Plot: /Users/tara/Desktop/F1LapTracker/plots/saudi_arabian_gp_lap_times.png
+- Sector Times Plot: /Users/tara/Desktop/F1LapTracker/plots/saudi_arabian_gp_sector_times.png
+- Cluster Plot: /Users/tara/Desktop/F1LapTracker/plots/saudi_arabian_gp_cluster.png
